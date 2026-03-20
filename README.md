@@ -13,6 +13,7 @@ My custom skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-cod
 | **ljg-x-download** | X media downloader — download images and videos from X/Twitter posts to ~/Downloads |
 | **ljg-skill-map** | Skill map viewer — visual overview of all installed skills |
 | **ljg-word** | English word mastery — deep-dive word deconstruction |
+| **ljg-word-card** | Word card workflow — deep-dive word analysis + infograph card in one go (combines ljg-word and ljg-card -i) |
 | **ljg-writes** | Writing engine — think through an idea by writing it out |
 
 ## Install
